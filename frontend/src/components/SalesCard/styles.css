@@ -1,4 +1,4 @@
-dsmeta-card {
+.dsmeta-card {
     background-color: #283142;
     border-radius: 10px;
     padding: 30px 10px;
@@ -54,6 +54,7 @@ dsmeta-card {
 .dsmeta-sales-table tbody tr:hover > td{
     background-color: #384459;
 }
+
 
 
 .dsmeta-redbutton-container{
